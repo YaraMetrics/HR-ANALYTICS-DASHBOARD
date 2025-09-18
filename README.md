@@ -19,4 +19,3 @@ Ein Power BI-Dashboard von Grund auf zu erstellen ist eine machbare, aber heraus
 🛠️ Verwendete Tools
 	•	Microsoft Power BI Desktop
 	•	DAX (Data Analysis Expressions)
-	•	Datenquellen: [Geben Sie hier die Art der verwendeten Daten an, z.B. Excel, CSV oder Datenbank]
